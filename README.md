@@ -1,1 +1,1 @@
-# relogio
+# relogio basico para estudos
